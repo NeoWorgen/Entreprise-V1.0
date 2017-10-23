@@ -25,7 +25,7 @@ Utilisation:
 
 -	Vous pouvez ajouter/retirer/changer le prix/changer de lieux des Entreprises dans le fichier "enter_client.lua".
 -	Un fichier d’utilisation est disponible dans le RAR.
--	Si vous avez un problème ou une question, n'hésitez pas à venir sur mon Discord: https://discord.gg/3gmWjRY
+-	Si vous avez un problème ou une question, n'hésitez pas à venir sur mon Discord: https://discord.gg/m28DN3f
 
 Changelog:
 -	23/10/2017 ---> Upload
